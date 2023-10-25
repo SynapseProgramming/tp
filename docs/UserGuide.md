@@ -7,8 +7,10 @@ ToothTracker is an **All-in-One solution for Effortless Dental Clinic Record Man
 From adding new patient and dentist profiles to seamlessly deleting records,
 ToothTracker is engineered to simplify every aspect of your administrative responsibilities.
 
-* Table of Contents
+Table of Contents
+- TOC
   {:toc}
+
 
 --------------------------------------------------------------------------------------------------------------------
 
@@ -478,5 +480,6 @@ Afterwards, you may edit the particulars using `edit-dentist` or `edit-patient` 
 | **Clear all Profiles**                 | `clear`                                                                                                                                                                                                                        |
 | **Exit Programme**                     | `exit`                                                                                                                                                                                                                         |
 | **Help**                               | `help`                                                                                                                                                                                                                         |
---------------------------------------------------------------------------------------------------------------------
+
+
 
